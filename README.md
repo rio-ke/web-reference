@@ -19,3 +19,6 @@ https://linuxize.com/post/how-to-install-and-configure-samba-on-centos-7/
 _Apache and Nginx_
 
 https://hostadvice.com/how-to/web-hosting/ubuntu/how-to-configure-nginx-and-apache-together-in-ubuntu/
+
+
+https://www.hacknos.com/blackarch-install-virtualbox/
