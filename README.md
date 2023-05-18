@@ -20,5 +20,6 @@ _Apache and Nginx_
 
 https://hostadvice.com/how-to/web-hosting/ubuntu/how-to-configure-nginx-and-apache-together-in-ubuntu/
 
+_Blackarch linux_
 
 https://www.hacknos.com/blackarch-install-virtualbox/
