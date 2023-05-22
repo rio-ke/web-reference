@@ -23,3 +23,7 @@ https://hostadvice.com/how-to/web-hosting/ubuntu/how-to-configure-nginx-and-apac
 _Blackarch linux_
 
 https://www.hacknos.com/blackarch-install-virtualbox/
+
+_mount-foulder_
+
+https://superuser.com/questions/134734/how-to-mount-a-drive-from-terminal-in-ubuntu
