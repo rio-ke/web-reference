@@ -43,3 +43,5 @@ https://houseofbrick.com/blog/active-passive-cluster-for-near-ha-using-pacemaker
 _LVM_
 
 https://drbd-user.linbit.narkive.com/yiqOOoXp/resizing-lvm-partitions-and-drbd
+
+https://docs.piraeus.daocloud.io/books/drbd-90-user-guide/page/9-using-lvm-with-drbd
