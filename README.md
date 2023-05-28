@@ -27,3 +27,12 @@ https://www.hacknos.com/blackarch-install-virtualbox/
 _mount-foulder_
 
 https://superuser.com/questions/134734/how-to-mount-a-drive-from-terminal-in-ubuntu
+
+https://dba.stackexchange.com/questions/4319/change-path-for-binary-logs-and-scheduling
+
+_Sophos_ 
+
+https://youtu.be/db8ASZe4Rco
+
+https://youtu.be/7QQLbnRJ0ko
+
