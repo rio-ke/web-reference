@@ -40,4 +40,6 @@ _cluster_
 
 https://houseofbrick.com/blog/active-passive-cluster-for-near-ha-using-pacemaker-drbd-corosync-and-mysql/
 
+_LVM_
 
+https://drbd-user.linbit.narkive.com/yiqOOoXp/resizing-lvm-partitions-and-drbd
