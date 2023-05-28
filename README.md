@@ -36,3 +36,8 @@ https://youtu.be/db8ASZe4Rco
 
 https://youtu.be/7QQLbnRJ0ko
 
+_cluster_
+
+https://houseofbrick.com/blog/active-passive-cluster-for-near-ha-using-pacemaker-drbd-corosync-and-mysql/
+
+
