@@ -45,3 +45,8 @@ _LVM_
 https://drbd-user.linbit.narkive.com/yiqOOoXp/resizing-lvm-partitions-and-drbd
 
 https://docs.piraeus.daocloud.io/books/drbd-90-user-guide/page/9-using-lvm-with-drbd
+
+_kubernets_
+
+https://devopscube.com/kubernetes-daemonset/
+
