@@ -50,3 +50,7 @@ _kubernets_
 
 https://devopscube.com/kubernetes-daemonset/
 
+_slack_grafana_
+
+https://www.devopsage.com/notification-to-slack-using-prometheus-alertmanger/
+
