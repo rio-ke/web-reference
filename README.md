@@ -58,3 +58,6 @@ _slack-token for promethous_
 
 https://grafana.com/blog/2020/02/25/step-by-step-guide-to-setting-up-prometheus-alertmanager-with-slack-pagerduty-and-gmail/
 
+_grafana_
+
+https://grafana.com/tags/alerting/
