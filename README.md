@@ -68,7 +68,6 @@ _Linux_ networking_
 
 https://mindmajix.com/linux-networking-commands-best-examples
 
-
 _Devops Juntion_
 
 https://www.middlewareinventory.com/
