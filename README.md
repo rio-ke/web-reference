@@ -75,3 +75,7 @@ _Devops Juntion_
 
 https://www.middlewareinventory.com/
 
+_phpMyadmin_
+
+https://phoenixnap.com/kb/how-to-install-secure-phpmyadmin-on-centos-7
+
