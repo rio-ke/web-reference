@@ -28,6 +28,8 @@ _mount-foulder_
 
 https://superuser.com/questions/134734/how-to-mount-a-drive-from-terminal-in-ubuntu
 
+_mysql-binary-log_
+
 https://dba.stackexchange.com/questions/4319/change-path-for-binary-logs-and-scheduling
 
 _aws_
