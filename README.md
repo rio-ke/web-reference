@@ -32,14 +32,6 @@ _mysql-binary-log_
 
 https://dba.stackexchange.com/questions/4319/change-path-for-binary-logs-and-scheduling
 
-_aws_
-
-https://www.youtube.com/watch?v=VnO3Lz7Qr0U
-
-_AWS_Teraform_
-
-https://towardsaws.com/terraform-a-guide-to-creating-custom-ec2-security-group-and-vpc-modules-72e99a310a67
-
 _Sophos_ 
 
 https://www.youtube.com/watch?v=aXNo4V2A1Gw
