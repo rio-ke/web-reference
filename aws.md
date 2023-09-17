@@ -13,3 +13,7 @@ https://www.youtube.com/watch?v=v_ElfyPXcXo
 _ansible-hosts_in_aws_
 
 https://github.com/Bukola-Testimony/aws-cloudformation-templates
+
+_aws to sophos_
+
+https://youtu.be/iwj8V8CeeUo?feature=shared
