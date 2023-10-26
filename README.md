@@ -81,3 +81,6 @@ https://phoenixnap.com/kb/how-to-install-secure-phpmyadmin-on-centos-7
 ```
 https://www.freecodecamp.org/news/what-is-json-a-json-file-example/
 
+_DNS_
+
+https://www.learnitguide.net/2023/04/how-to-configure-dns-server-in-linux_83.html
