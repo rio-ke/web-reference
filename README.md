@@ -78,8 +78,8 @@ _phpMyadmin_
 
 https://phoenixnap.com/kb/how-to-install-secure-phpmyadmin-on-centos-7
 
-```
 https://www.freecodecamp.org/news/what-is-json-a-json-file-example/
+
 
 _DNS_
 
