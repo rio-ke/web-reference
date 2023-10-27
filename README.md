@@ -66,7 +66,7 @@ _grafana_
 
 https://grafana.com/tags/alerting/
 
-_Linux_ networking_
+_Linux networking_
 
 https://mindmajix.com/linux-networking-commands-best-examples
 
