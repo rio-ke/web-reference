@@ -88,3 +88,7 @@ https://www.learnitguide.net/2023/04/how-to-configure-dns-server-in-linux_83.htm
 _Primary and secondary DNS_
 
 https://www.learnitguide.net/2023/04/how-to-configure-primary-and-secondary.html
+
+_virtualbox-network_
+
+https://www.nakivo.com/blog/virtualbox-network-setting-guide/
