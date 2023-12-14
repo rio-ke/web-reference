@@ -18,5 +18,6 @@ _aws to sophos_
 
 https://youtu.be/iwj8V8CeeUo?feature=shared
 
+_Host WordPress Sites using EC2 + Nginx Reverse Proxy + Let’s Encrypt + Domain Name_
 
 https://awstip.com/host-wordpress-sites-using-ec2-nginx-reverse-proxy-lets-encrypt-domain-name-a-detailed-08b875a3b7d2
