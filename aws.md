@@ -17,3 +17,6 @@ https://github.com/Bukola-Testimony/aws-cloudformation-templates
 _aws to sophos_
 
 https://youtu.be/iwj8V8CeeUo?feature=shared
+
+
+https://awstip.com/host-wordpress-sites-using-ec2-nginx-reverse-proxy-lets-encrypt-domain-name-a-detailed-08b875a3b7d2
